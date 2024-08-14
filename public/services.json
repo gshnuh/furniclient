@@ -1,0 +1,42 @@
+[
+    {
+        "image": "/images/truck.svg",
+        "title": "Fast & Free Shipping",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    },
+    {
+        "image": "/images/bag.svg",
+        "title": "Easy to Shop",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    },
+    {
+        "image": "/images/support.svg",
+        "title": "24/7 Support",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    },
+    {
+        "image": "/images/return.svg",
+        "title": "Hassle Free Returns",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    },
+    {
+        "image": "/images/truck.svg",
+        "title": "Fast & Free Shipping",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    },
+    {
+        "image": "/images/bag.svg",
+        "title": "Easy to Shop",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    },
+    {
+        "image": "/images/support.svg",
+        "title": "24/7 Support",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    },
+    {
+        "image": "/images/return.svg",
+        "title": "Hassle Free Returns",
+        "description": "Donec vitae odio quis nisl dapibus malesuada.Nullam ac aliquet velit. Aliquam vulputate."
+    }
+]
